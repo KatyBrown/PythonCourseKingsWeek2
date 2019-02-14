@@ -1,0 +1,2 @@
+Here are some integers:	100, 200
+Here is another one:	300
